@@ -1,0 +1,13 @@
+.check {
+    opacity: 0;
+
+}
+
+.check:hover {
+    opacity: 1;
+}
+
+.img {
+    position: relative;
+    float: left;
+}
